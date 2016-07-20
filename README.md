@@ -1,1 +1,1 @@
-# greatest_common_denominator
+# greatest_common_divisor
